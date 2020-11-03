@@ -1,0 +1,10 @@
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\5. DemoMaths_Sqr_Cube\bin\Debug\_5.DemoMaths_Sqr_Cube.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\5. DemoMaths_Sqr_Cube\bin\Debug\_5.DemoMaths_Sqr_Cube.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\5. DemoMaths_Sqr_Cube\bin\Debug\_5.DemoMaths_Sqr_Cube.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\5. DemoMaths_Sqr_Cube\obj\Debug\_5.DemoMaths_Sqr_Cube.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\5. DemoMaths_Sqr_Cube\obj\Debug\_5.DemoMaths_Sqr_Cube.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\5. DemoMaths_Sqr_Cube\bin\Debug\_5.DemoMaths_Sqr_Cube.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\5. DemoMaths_Sqr_Cube\bin\Debug\_5.DemoMaths_Sqr_Cube.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\5. DemoMaths_Sqr_Cube\bin\Debug\_5.DemoMaths_Sqr_Cube.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\5. DemoMaths_Sqr_Cube\obj\Debug\_5.DemoMaths_Sqr_Cube.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\5. DemoMaths_Sqr_Cube\obj\Debug\_5.DemoMaths_Sqr_Cube.pdb
