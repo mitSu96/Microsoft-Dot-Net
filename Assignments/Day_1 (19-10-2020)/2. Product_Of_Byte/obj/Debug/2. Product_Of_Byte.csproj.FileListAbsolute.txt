@@ -1,0 +1,10 @@
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\2. Product_Of_Byte\bin\Debug\_2.Product_Of_Byte.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\2. Product_Of_Byte\bin\Debug\_2.Product_Of_Byte.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\2. Product_Of_Byte\bin\Debug\_2.Product_Of_Byte.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\2. Product_Of_Byte\obj\Debug\_2.Product_Of_Byte.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\2. Product_Of_Byte\obj\Debug\_2.Product_Of_Byte.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\2. Product_Of_Byte\bin\Debug\_2.Product_Of_Byte.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\2. Product_Of_Byte\bin\Debug\_2.Product_Of_Byte.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\2. Product_Of_Byte\bin\Debug\_2.Product_Of_Byte.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\2. Product_Of_Byte\obj\Debug\_2.Product_Of_Byte.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\2. Product_Of_Byte\obj\Debug\_2.Product_Of_Byte.pdb
