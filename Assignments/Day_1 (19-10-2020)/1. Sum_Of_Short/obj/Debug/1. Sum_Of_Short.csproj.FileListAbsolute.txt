@@ -1,0 +1,11 @@
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\1. Sum_Of_Short\bin\Debug\_1.Sum_Of_Short.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\1. Sum_Of_Short\bin\Debug\_1.Sum_Of_Short.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\1. Sum_Of_Short\bin\Debug\_1.Sum_Of_Short.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\1. Sum_Of_Short\obj\Debug\_1.Sum_Of_Short.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\Day_1(19-10-2020)\1. Sum_Of_Short\obj\Debug\_1.Sum_Of_Short.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\1. Sum_Of_Short\bin\Debug\_1.Sum_Of_Short.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\1. Sum_Of_Short\obj\Debug\_1.Sum_Of_Short.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\1. Sum_Of_Short\obj\Debug\_1.Sum_Of_Short.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\1. Sum_Of_Short\bin\Debug\_1.Sum_Of_Short.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\1. Sum_Of_Short\bin\Debug\_1.Sum_Of_Short.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_1 (19-10-2020)\1. Sum_Of_Short\obj\Debug\1. Sum_Of_Short.csprojResolveAssemblyReference.cache
