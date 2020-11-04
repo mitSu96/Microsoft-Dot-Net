@@ -1,0 +1,5 @@
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\3-Shared_Assembly\obj\Debug\3-Shared_Assembly.csprojResolveAssemblyReference.cache
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\3-Shared_Assembly\bin\Debug\3-Shared_Assembly.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\3-Shared_Assembly\bin\Debug\3-Shared_Assembly.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\3-Shared_Assembly\bin\Debug\3-Shared_Assembly.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\3-Shared_Assembly\obj\Debug\3-Shared_Assembly.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\3-Shared_Assembly\obj\Debug\3-Shared_Assembly.pdb

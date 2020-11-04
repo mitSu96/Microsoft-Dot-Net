@@ -1,0 +1,5 @@
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\6-Num_In_bytedatatype_check\bin\Debug\6-Num_In_bytedatatype_check.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\6-Num_In_bytedatatype_check\bin\Debug\6-Num_In_bytedatatype_check.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\6-Num_In_bytedatatype_check\bin\Debug\6-Num_In_bytedatatype_check.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\6-Num_In_bytedatatype_check\obj\Debug\6-Num_In_bytedatatype_check.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\6-Num_In_bytedatatype_check\obj\Debug\6-Num_In_bytedatatype_check.pdb

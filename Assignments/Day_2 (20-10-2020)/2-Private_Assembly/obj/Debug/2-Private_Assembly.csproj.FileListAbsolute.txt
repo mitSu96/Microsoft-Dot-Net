@@ -1,0 +1,8 @@
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\2-Private_Assembly\bin\Debug\2-Private_Assembly.exe.config
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\2-Private_Assembly\bin\Debug\2-Private_Assembly.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\2-Private_Assembly\bin\Debug\2-Private_Assembly.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\2-Private_Assembly\bin\Debug\priv_lib.dll
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\2-Private_Assembly\bin\Debug\priv_lib.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\2-Private_Assembly\obj\Debug\2-Private_Assembly.csprojResolveAssemblyReference.cache
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\2-Private_Assembly\obj\Debug\2-Private_Assembly.exe
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft .Net Technologies\Assignments\Day_2 (20-10-2020)\1-UserIP_Print\2-Private_Assembly\obj\Debug\2-Private_Assembly.pdb
