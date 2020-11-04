@@ -1,0 +1,4 @@
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-11-2020)\3-Emp_Struct\bin\Debug\3-Emp_Struct.dll
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-11-2020)\3-Emp_Struct\bin\Debug\3-Emp_Struct.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-11-2020)\3-Emp_Struct\obj\Debug\3-Emp_Struct.dll
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-11-2020)\3-Emp_Struct\obj\Debug\3-Emp_Struct.pdb
