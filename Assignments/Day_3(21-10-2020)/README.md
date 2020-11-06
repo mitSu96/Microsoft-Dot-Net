@@ -1,4 +1,4 @@
-##Day3 Assignment Task##
+## Day3 Assignment Task
 
 Q1. Create a struct Math having two static method square and cube. Using struct variable call this method and print square and cube of a number.
 
