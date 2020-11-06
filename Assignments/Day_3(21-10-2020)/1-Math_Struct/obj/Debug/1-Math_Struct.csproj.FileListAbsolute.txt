@@ -3,3 +3,8 @@ D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-11-2020)\1-M
 D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-11-2020)\1-Math_Struct\obj\Debug\1-Math_Struct.dll
 D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-11-2020)\1-Math_Struct\obj\Debug\1-Math_Struct.pdb
 D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-11-2020)\1-Math_Struct\obj\Debug\1-Math_Struct.csprojResolveAssemblyReference.cache
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-10-2020)\1-Math_Struct\bin\Debug\1-Math_Struct.dll
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-10-2020)\1-Math_Struct\bin\Debug\1-Math_Struct.pdb
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-10-2020)\1-Math_Struct\obj\Debug\1-Math_Struct.csprojResolveAssemblyReference.cache
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-10-2020)\1-Math_Struct\obj\Debug\1-Math_Struct.dll
+D:\WorkSpace\PG-DAC Feb 2020\Microsoft-Dot-Net\Assignments\Day_3(21-10-2020)\1-Math_Struct\obj\Debug\1-Math_Struct.pdb
