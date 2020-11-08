@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5-Calculator", "Q5-Calculator\Q5-Calculator.csproj", "{A59E879D-6874-47CF-A5C9-0B3DDCFB12D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cal_lib", "Q5-Calculator\cal_lib\cal_lib.csproj", "{CCF53540-0CDC-45D8-A520-F8872B4D99E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59E879D-6874-47CF-A5C9-0B3DDCFB12D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59E879D-6874-47CF-A5C9-0B3DDCFB12D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59E879D-6874-47CF-A5C9-0B3DDCFB12D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59E879D-6874-47CF-A5C9-0B3DDCFB12D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF53540-0CDC-45D8-A520-F8872B4D99E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF53540-0CDC-45D8-A520-F8872B4D99E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF53540-0CDC-45D8-A520-F8872B4D99E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF53540-0CDC-45D8-A520-F8872B4D99E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
