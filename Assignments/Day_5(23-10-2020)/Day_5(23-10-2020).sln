@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1-Employee(MiddlenameMissing)", "Q1-Employee(MiddlenameMissing)\Q1-Employee(MiddlenameMissing).csproj", "{5C0FC9B5-C31E-4DBF-BDA7-ADD80A5D88D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emp_Lib", "Q1-Employee(MiddlenameMissing)\Emp_Lib\Emp_Lib.csproj", "{EE03ECAB-B12B-47E5-924D-100D61FAF75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0FC9B5-C31E-4DBF-BDA7-ADD80A5D88D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0FC9B5-C31E-4DBF-BDA7-ADD80A5D88D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0FC9B5-C31E-4DBF-BDA7-ADD80A5D88D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0FC9B5-C31E-4DBF-BDA7-ADD80A5D88D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE03ECAB-B12B-47E5-924D-100D61FAF75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE03ECAB-B12B-47E5-924D-100D61FAF75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE03ECAB-B12B-47E5-924D-100D61FAF75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE03ECAB-B12B-47E5-924D-100D61FAF75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
