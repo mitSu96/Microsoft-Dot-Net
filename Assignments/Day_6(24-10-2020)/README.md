@@ -1,4 +1,4 @@
-			###	Day 6 Assignments
+###			Day 6 Assignments
 
 **Q1.** Solve two task given in PPT.
 
