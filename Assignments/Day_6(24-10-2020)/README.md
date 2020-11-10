@@ -4,7 +4,7 @@
 
 **Q2.** Accept data in 3*3matrix and print row wise sum.
 
-**Q3.** Accept data in an array and print sum  also store s**Quare of each element in new array.
+**Q3.** Accept data in an array and print sum  also store square of each element in new array.
 
 **Q4.** Accept data in an array pass it to static method let this method store cube of each element , modify original array.
 
